@@ -25,7 +25,6 @@ Hello! I am a Junior Web Developer with a strong foundation in various programmi
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kot04ka&show_icons=true&locale=en" alt="kot04ka" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kot04ka&show_icons=true&theme=dark&locale=en&layout=compact" alt="kot04ka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kot04ka&theme=dark" alt="kot04ka" /></p>
