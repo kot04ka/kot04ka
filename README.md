@@ -4,17 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Enthusiastic Junior Web Developer with a Passion for Learning and Creating Efficient, Scalable Web Solutions
 ------------------------------------------------------------------------------------------------------------
 
-Hello! I am a Junior Web Developer with a strong foundation in various programming languages, frameworks, and tools, ready to take on challenges and contribute to exciting projects. My skill set covers both front-end and back-end development, enabling me to build dynamic, responsive, and functional web applications. I am passionate about writing clean, maintainable code, and always aim to stay updated with the latest industry trends and best practices.
-
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [kostakovalenko7@gmail.com](mailto:kostakovalenko7@gmail.com)
-* 🧠  I'm learning React
 
 ### Skills
 
 
 <p align="left">
-### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -29,9 +25,5 @@ Hello! I am a Junior Web Developer with a strong foundation in various programmi
 
 <p align="left"> <a href="https://discord.com/users/kot04ka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kost04ka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/kot04ka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kot04ka&show_icons=true&theme=dark&locale=en&layout=compact" alt="kot04ka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kot04ka&theme=dark" alt="kot04ka" /></p>
